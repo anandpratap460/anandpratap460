@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anandpratap460
-- 👀 I’m interested in Software development & Business Management in IT Companies
-- 🌱 I’m currently learning HTML, Java & PHP programming language
+- 👀 I’m interested in Web & Software Development
+- 🌱 I’m currently learning HTML|CSS|JS & Python programming language
 - 💞️ I’m looking to collaborate on Developer team or IT Company
 - 📫 How to reach me ... 
 
